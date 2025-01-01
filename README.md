@@ -5,5 +5,5 @@
 
 و هر تعداد موجود که میخواید کپی کنید و حتما در برنامه V2RayNg از طریق setting  قسمت dns هارو فعال کنید 
 
-تو این عکس خاموش هستن و باید فعال کنید 
-![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/-vhl2n8.jpg)
+آموزش استفاده در برنامه V2RayNg [اینجا](https://example.com) بزنید 
+آموزش استفاده از Karing VPN [اینجا](https://example.com) بزنید 
