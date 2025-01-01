@@ -1,4 +1,12 @@
 برای استفاده از V2RayNg حتما نکات رو رعایت کنید 
+از طریق [لینک](https://github.com/valid7996/Gozargah/blob/main/Gozargah_Sub) وارد فایل شوید
+ و تعداد مورد نیاز رو کپی کنید  
+
+و یا میتوانید از طریق سابسکریبشن وارد کنید 
+لینک سابسکریبشن کپی کنی و گزینه + بزنید بعد گزینه دوم منتظر بمونید وارد شن ♥️
+ 
+ 
+ Subscriptions : https://drive.google.com/uc?export=download&id=1gg6ztJQu_K4sFuJsk-c7bUeFNRA9K5ki#Gozargah
 
 
 
