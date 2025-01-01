@@ -5,5 +5,6 @@
 
 و هر تعداد موجود که میخواید کپی کنید و حتما در برنامه V2RayNg از طریق setting  قسمت dns هارو فعال کنید 
 
-آموزش استفاده در برنامه V2RayNg [اینجا](https://example.com) بزنید 
-آموزش استفاده از Karing VPN [اینجا](https://example.com) بزنید 
+# آموزش استفاده در برنامه V2RayNg [اینجا](https://example.com) بزنید 
+
+# آموزش استفاده از Karing VPN [اینجا](https://example.com) بزنید 
