@@ -6,6 +6,8 @@
 قدم اول سه تا خط گوشه رو بزنید 
 
 
+تو این عکس خاموش هستن و باید فعال کنید 
+![نمونه عکس]([https://github.com/valid7996/Gozargah/blob/main/images/-vhl2n8.jpg](https://github.com/valid7996/Gozargah/blob/main/images/2025-Jan-01-19-03-38.png))
 
 
 
