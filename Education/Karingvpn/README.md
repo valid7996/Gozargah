@@ -16,8 +16,8 @@
 
 3.این گذینه رو انتخاب کنید 
 
-![نمونه عکس](https://raw.githubusercontent.com/username/repository/main/images/example.jpg)
+![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/karing_im/2025-Jan-01-19-51-42.png)
 
 4. این گذینه رو انتخاب کید 
 
-![نمونه عکس](https://raw.githubusercontent.com/username/repository/main/images/example.jpg)
+![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/karing_im/InShot_20250101_195752345.jpg)
