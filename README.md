@@ -14,4 +14,4 @@
 
 # آموزش استفاده در برنامه V2RayNg [اینجا](https://github.com/valid7996/Gozargah/tree/main/Education/V2RayNg) بزنید 
 
-# آموزش استفاده از Karing VPN [اینجا](https://example.com) بزنید 
+# آموزش استفاده از Karing VPN [اینجا](https://github.com/valid7996/Gozargah/tree/main/Education/Karingvpn) بزنید 
