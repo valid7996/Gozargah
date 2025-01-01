@@ -15,12 +15,12 @@
 قدم دوم تنظیمات انتخاب کنید 
 
 
-![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/InShot_20250101_192456857.jpg)
+![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/InShot_20250101_192436729.jpg)
 
 
 قدم سوم گزینه DNS  فعال کنید 
 
 
-![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/InShot_20250101_192436729.jpg)
+![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/InShot_20250101_192456857.jpg)
 
 تو این عکس خاموش هستن و باید فعال کنید 
