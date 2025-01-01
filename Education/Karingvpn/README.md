@@ -7,8 +7,7 @@
 
 طبق آموزش عکس برید 
 1. این گذینه رو انتخاب کنید
-2.
-3. ![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/karing_im/2025-Jan-01-19-51-18.png)
+![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/karing_im/2025-Jan-01-19-51-18.png)
 
 2.این گذینه رو انتخاب کنید
 
