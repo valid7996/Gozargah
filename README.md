@@ -1,9 +1,11 @@
 # Gozargah
 
 
-سلام به پروژه خوش امدید حتما از طریق [لینک](https://github.com/valid7996/Gozargah/blob/main/Gozargah_Sub) وارد پوشه شوید
+سلام به پروژه خوش امدید حتما از طریق [لینک](https://github.com/valid7996/Gozargah/blob/main/Gozargah_Sub) وارد فایل شوید
+ و تعداد مورد نیاز رو کپی کنید  
+ Subscriptions : https://drive.google.com/uc?export=download&id=1gg6ztJQu_K4sFuJsk-c7bUeFNRA9K5ki#Gozargah
 
-و هر تعداد موجود که میخواید کپی کنید و حتما در برنامه V2RayNg از طریق setting  قسمت dns هارو فعال کنید 
+ برای استفاده از دو اپلیکیشن معروف قابل استفاده است 
 
 # آموزش استفاده در برنامه V2RayNg [اینجا](https://example.com) بزنید 
 
