@@ -9,12 +9,12 @@
  Subscriptions : https://drive.google.com/uc?export=download&id=1gg6ztJQu_K4sFuJsk-c7bUeFNRA9K5ki#Gozargah
 
 
-
+شاید بعد از وارد کردن سرور ها پینگ میدن ولی کار نخواهد کرد لطفا به آموزش پایین دقت کنید 
 
 قدم اول سه تا خط گوشه رو بزنید 
 
 
-تو این عکس خاموش هستن و باید فعال کنید 
+
 
 
 ![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/InShot_20250101_192402070.jpg)
