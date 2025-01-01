@@ -9,13 +9,18 @@
 تو این عکس خاموش هستن و باید فعال کنید 
 
 
-![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/2025-Jan-01-19-03-38.png)
+![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/InShot_20250101_192402070.jpg)
 
 
 قدم دوم تنظیمات انتخاب کنید 
 
 
-
+![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/InShot_20250101_192456857.jpg)
 
 
 قدم سوم گزینه DNS  فعال کنید 
+
+
+![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/InShot_20250101_192436729.jpg)
+
+تو این عکس خاموش هستن و باید فعال کنید 
