@@ -9,7 +9,7 @@
 1. این گذینه رو انتخاب کنید
 ![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/karing_im/2025-Jan-01-19-51-18.png)
 
-2.این گذینه رو انتخاب کنید
+2.این گذینه DNS  رو فعال کنید 
 
 ![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/karing_im/InShot_20250101_203512942.jpg)
 
@@ -17,6 +17,6 @@
 
 ![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/karing_im/2025-Jan-01-19-51-42.png)
 
-4. این گذینه رو انتخاب کید 
+4. 4. به دو قسمت تقسیم شده سابسکریبشن و دستی برای دریافت لینک های دستی  ضربه بزنید 
 
 ![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/karing_im/InShot_20250101_195752345.jpg)
