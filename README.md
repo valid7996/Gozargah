@@ -10,13 +10,10 @@
 
 
 
- برای استفاده از دو اپلیکیشن معروف قابل استفاده است 
+ برای استفاده از دو اپلیکیشن معروف قابل استفاده است
 
-
-                                                      عکس سابسکریپشن 
-                                                      ![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/InShot_20250101_213036521.jpg)
-
-
+ ![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/InShot_20250101_213036521.jpg)
+                                                   
 
 
 # آموزش استفاده در برنامه V2RayNg [اینجا](https://github.com/valid7996/Gozargah/tree/main/Education/V2RayNg) بزنید 
