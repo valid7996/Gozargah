@@ -6,7 +6,7 @@
 لینک سابسکریبشن کپی کنی و گزینه + بزنید بعد گزینه دوم منتظر بمونید وارد شن ♥️
  
  
- Subscriptions : https://drive.google.com/uc?export=download&id=1gg6ztJQu_K4sFuJsk-c7bUeFNRA9K5ki#Gozargah
+ Subscriptions : https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub
 
 
 شاید بعد از وارد کردن سرور ها پینگ میدن ولی کار نخواهد کرد لطفا به آموزش پایین دقت کنید 
