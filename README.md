@@ -6,7 +6,7 @@
 
  
  
- Subscriptions : https://drive.google.com/uc?export=download&id=1gg6ztJQu_K4sFuJsk-c7bUeFNRA9K5ki#Gozargah
+ Subscriptions : https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub
 
 
 
