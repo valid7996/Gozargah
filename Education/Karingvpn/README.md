@@ -19,7 +19,7 @@
 
 4. به دو قسمت تقسیم شده سابسکریبشن و دستی برای دریافت [لینک](https://github.com/valid7996/Gozargah/blob/main/Gozargah_Sub) های دستی  ضربه بزنید
 یا از طریق لینک سابسکریبشن 
-   Subscriptions karing : https://fs.v2rayse.com/share/20250102/frb4djgbfc.txt
+   Subscriptions karing : https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub
 
 ![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/karing_im/InShot_20250101_195752345.jpg)
 
