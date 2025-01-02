@@ -17,7 +17,9 @@
 
 ![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/karing_im/2025-Jan-01-19-51-42.png)
 
-4. به دو قسمت تقسیم شده سابسکریبشن و دستی برای دریافت [لینک](https://github.com/valid7996/Gozargah/blob/main/Gozargah_Sub) های دستی  ضربه بزنید 
+4. به دو قسمت تقسیم شده سابسکریبشن و دستی برای دریافت [لینک](https://github.com/valid7996/Gozargah/blob/main/Gozargah_Sub) های دستی  ضربه بزنید
+یا از طریق لینک سابسکریبشن 
+   Subscriptions karing : https://fs.v2rayse.com/share/20250102/frb4djgbfc.txt
 
 ![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/karing_im/InShot_20250101_195752345.jpg)
 
