@@ -1,6 +1,6 @@
 ## 一：Worker_vless 
 
-ورکر میتوانید از اینجا دانلود کنید 
+ورکر میتوانید از اینجا [دانلود](https://github.com/valid7996/Gozargah/blob/main/vless_worker/worker.js) کنید 
 آموزش استفاده ورکر 
 برای استفاده ورکر دانلود کنید و قسمت woker در کلودفلر اپلود کنید 
 
