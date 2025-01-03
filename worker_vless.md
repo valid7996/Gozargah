@@ -10,8 +10,7 @@
 
 | برنامه ها |
 | :--- | 
-
-| 1.V2RayNg |
+| 1. V2RayNg |
 | 2. NikaNg | 
 | 3. MahsaNg |
 | 4. KaringVpn |
