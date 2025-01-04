@@ -24,9 +24,9 @@
 همونطور که میدونید UUID  مثل اسم رمزی میمونه که داخل لینک‌های اشتراک و کانفیگ ها قرار میگیره و شما در صورت نیاز میتونید تغییر بدید. در صورت تغییر این پارامتر اتصال کاربرهای شما قطع میشه و لازم هست لینک اشتراک و یا کانفیگ ها رو مجددا در اختیارشون قرار بدید. در صورتی که این UUID رو در این مرحله تعریف نکنید هم کد از یک UUID پیشفرض استفاده خواهد کرد.
 
 
-برای تغییر Proxy IP از منوی سمت چپ به قسمت Workers & Pages برید، ورکری که ساختید رو باز کنید، برید به قسمت Settings و Variables and Secrets رو پیدا کنید:
+برای تغییر Proxyip و uuid از منوی سمت چپ به قسمت Workers & Pages برید، ورکری که ساختید رو باز کنید، برید به قسمت Settings و Variables and Secrets رو پیدا کنید:
 ![عکس](https://github.com/valid7996/Gozargah/blob/main/images/imagwor/IMG_20250104_163547.jpg)
-![im](https://github.com/valid7996/Gozargah/blob/main/images/imagwor/InShot_20250104_155719489.jpg)
+
 
 <br><br>
 
@@ -37,13 +37,16 @@
 
 > [!CAUTION]
 >  توجه در صورت که ایپی که معرفی میکنید خاموش شه همه سرور ها خاموش میشن و در صورت خاموش شدن نگران نباشید در ادامه میتونید باتغییر ایپی که تعیین کردید میتونید دوباره سرور هارو بحالت نرمال برگردونید ادامه رو بخون آموزش تغییر uuid با proxyip پایین چک کنید
+
 <br><br>
 
 
 
 یه بار `Add variable` بزنید و خونه اول رو بنویسید `UUID` با حروف کوچیک، بعد از [اینجا](https://www.uuidgenerator.net/) یه UUID بگیرید و بذارید خونه دوم.
+![im](https://github.com/valid7996/Gozargah/blob/main/images/imagwor/InShot_20250104_155744172.jpg)
 
 حالا یه بار دیگه `Add variable` بزنید خونه اول `PROXYIP` با حروف کوچیک IP رو هم میتونید از لینک‌ زیر بگیرید، اینا رو باز کنید یه تعدادی IP نشون میده که میتونید کشورشون رو هم چک کنید و یه دونه انتخاب کنید:
+![im](https://github.com/valid7996/Gozargah/blob/main/images/imagwor/InShot_20250104_155719489.jpg)
 
 >[Proxy IP](https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/)
 
