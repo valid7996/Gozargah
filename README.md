@@ -17,7 +17,7 @@
 
 ## —:سرور رایگان
 
-برای دریافت سرور های رایگان [اینجا](https://github.com/valid7996/Gozargah/blob/main/Free%20config.md) ضربه بزیند
+برای دریافت سرور های رایگان [اینجا](https://github.com/valid7996/Gozargah/blob/main/Free%20config.md) ضربه بزنید
 
 
 
