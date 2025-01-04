@@ -60,7 +60,7 @@ Port : 443、8443、2053、2083、2087、2096)
 
 
 uuid : 253ef561-9e57-4336-befd-878ddd30df01 
-ص
+
 
 network : ws (websocket) 
 
@@ -85,7 +85,7 @@ Port : 80、8080、8880、2095、2082、2052)
 
 
 uuid : 253ef561-9e57-4336-befd-878ddd30df01 
-ص
+
 
 network : ws (websocket) 
 
