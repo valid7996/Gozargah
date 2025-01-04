@@ -15,6 +15,11 @@
 [آموزش ورکر](https://github.com/valid7996/Gozargah/blob/main/Education/workerscomment.md) 
 
 
+## —:سرور رایگان
+
+برای دریافت سرور های رایگان [اینجا](https://github.com/valid7996/Gozargah/blob/main/Free%20config.md) ضربه بزیند
+
+
 
 ## __:برنامه_خاص 
 
