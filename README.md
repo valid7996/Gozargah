@@ -7,6 +7,13 @@
 برای استفاده این پروژه fake dns  فعاله برای امنیت ها پس برنامه خاصی آن رو ساپورت میکنه 
 دیگر پروژه های ورکر میتونید ببینید [bpb_worker](https://github.com/valid7996/BPB-Worker-Panel) 
 
+
+## —:آموزش ورکر
+
+[آموزش ورکر](https://github.com/valid7996/Gozargah/blob/main/Education/workerscomment.md) 
+
+
+
 ## __:برنامه_خاص 
 
 | برنامه ها |
