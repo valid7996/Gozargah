@@ -2,9 +2,7 @@
 
 خب اول کد Worker رو از [اینجا](https://github.com/bia-pain-bache/BPB-Worker-Panel/releases/latest/download/worker.js) دانلود کنید و ببرید توی داشبورد ورکر کلادفلرو فایل رو آپلود کنید (چون کد خیلی زیاد شده Copy Paste کردن با گوشی خیلی سخت شده، با توجه به عکس زیر آپلود کنید). توی مویایل منوی کناری رو باز کنید و تاح کنید روش نگه دارید و آپلود کنید.
 
-<p align="center">
-  <img src="assets/images/Worker_mobile_upload.jpg">
-</p> 
+![عکس](https://github.com/valid7996/Gozargah/blob/main/images/imagwor/IMG_20250104_163647.jpg)
 
 پنل با UUID و Proxy IP و پسورد Trojan پیشفرض خودش کار میکنه و میتونید ادامه بدید، ولی اگر خواستید تغییر بدید به بخش [تنظیمات پیشرفته](#تنظیمات-پیشرفته-اختیاری) برید و برگردید اینجا.
 
