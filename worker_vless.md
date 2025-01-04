@@ -29,7 +29,28 @@
 | 2087 | 2082 |
 | 2096 | 2052|
 
+و مقادیر اسفتاده شده رو میتونید پایین چک کنید 
+vless-ws-tls
 
+Address : cloudflare ip
+Port : 443、8443、2053、2083、2087、2096)
+uuid : 253ef561-9e57-4336-befd-878ddd30df01 
+network : ws (websocket) 
+host : domine.worker.dev
+path : /?ed=2560
+tls : true 
+allowlnsecure : false our fastly :true
+
+vless - ws
+
+Address : cloudflare ip
+Port : 80、8080、8880、2052、2082、2086、2095
+uuid : 253ef561-9e57-4336-befd-878ddd30df01 
+network : ws (websocket) 
+host : domine.worker.dev
+path : /?ed=2560
+tls : off
+allowlnsecure : `` ``
 
 
 
