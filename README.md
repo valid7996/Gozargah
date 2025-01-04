@@ -50,7 +50,8 @@
 | 2096 | 2052|
 
 و مقادیر استفاده شده رو میتونید پایین چک کنید 
-vless-ws-tls
+
+## —:vless-ws-tls
 
 Address : cloudflare ip
 
@@ -76,7 +77,7 @@ tls : true
 allowlnsecure : false our fastly :true
 
 
-vless - ws
+## —:vless - ws
 
 Address : cloudflare ip
 
