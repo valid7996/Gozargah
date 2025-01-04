@@ -12,7 +12,7 @@
 
  برای استفاده از دو اپلیکیشن معروف قابل استفاده است
 
- ![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/InShot_20250101_213036521.jpg)
+ ![نمونه عکس](https://github.com/valid7996/Gozargah/blob/main/images/InShot_20250102_164231014.jpg)
                                                    
 
 
