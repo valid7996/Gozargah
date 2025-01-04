@@ -97,4 +97,6 @@ allowlnsecure : `` ``
 
 ## —:آموزش ورکر
 
+[آموزش ورکر](https://github.com/valid7996/Gozargah/blob/main/Education/workerscomment.md) 
+
 
