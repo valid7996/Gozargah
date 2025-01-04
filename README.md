@@ -119,6 +119,6 @@ allowlnsecure : `` ``
 
 [آموزش ورکر](https://github.com/valid7996/Gozargah/blob/main/Education/workerscomment.md) 
 
-آموزشتروجان بزگدی اضافه خواهد شد
+آموزش تروجان بزودی اضافه خواهد شد
 
 
