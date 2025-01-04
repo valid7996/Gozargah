@@ -62,6 +62,47 @@ Port : 443、8443、2053、2083、2087、2096)
 uuid : 253ef561-9e57-4336-befd-878ddd30df01 
 ص
 
+network : ws (websocket) 
+
+
+host : domine.worker.dev
+
+
+path : /?ed=2560
+
+
+tls : true 
+
+
+allowlnsecure : false our fastly :true
+
+## —:vless-ws
+
+Address : cloudflare ip
+
+
+Port : 80、8080、8880、2095、2082、2052)
+
+
+uuid : 253ef561-9e57-4336-befd-878ddd30df01 
+ص
+
+network : ws (websocket) 
+
+
+host : domine.worker.dev
+
+
+path : /?ed=2560
+
+
+tls : false
+
+
+allowlnsecure : `` ``
+
+
+
 ## —:آموزش ورکر
 
 [آموزش ورکر](https://github.com/valid7996/Gozargah/blob/main/Education/workerscomment.md) 
