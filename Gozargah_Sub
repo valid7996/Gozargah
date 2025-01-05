@@ -9,9 +9,7 @@ vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.130:80?path=%2F%3Fed%3D204
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.136:80?path=%2F%3Fed%3D2048&security=&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.141:80?path=%2F%3Fed%3D2048&security=&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#Gozargah%20Azadi%20%F0%9F%94%8B
 trojan://Ng35283528@188.42.89.34:443?path=%2F%3Fed%3D2560&security=tls&host=c2.validbv3528.eu.org&fp=randomized&type=ws&sni=c2.validbv3528.eu.org#Gozargah%20Azadi%20%F0%9F%94%8B
-trojan://Ng35283528@188.42.89.35:443?path=%2F%3Fed%3D2560&security=tls&host=c2.validbv3528.eu.org&fp=randomized&type=ws&sni=c2.validbv3528.eu.org#Gozargah%20Azadi%20%F0%9F%94%8B
-trojan://Ng35283528@188.42.89.42:443?path=%2F%3Fed%3D2560&security=tls&host=c2.validbv3528.eu.org&fp=randomized&type=ws&sni=c2.validbv3528.eu.org#Gozargah%20Azadi%20%F0%9F%94%8B
-trojan://Ng35283528@188.42.89.91:443?path=%2F%3Fed%3D2560&security=tls&host=c2.validbv3528.eu.org&fp=randomized&type=ws&sni=c2.validbv3528.eu.org#Gozargah%20Azadi%20%F0%9F%94%8B
-trojan://Ng35283528@188.42.89.80:443?path=%2F%3Fed%3D2560&security=tls&host=c2.validbv3528.eu.org&fp=randomized&type=ws&sni=c2.validbv3528.eu.org#Gozargah%20Azadi%20%F0%9F%94%8B
-trojan://Ng35283528@188.42.89.69:443?path=%2F%3Fed%3D2560&security=tls&host=c2.validbv3528.eu.org&fp=randomized&type=ws&sni=c2.validbv3528.eu.org#Gozargah%20Azadi%20%F0%9F%94%8B
-trojan://Ng35283528@188.42.89.41:443?path=%2F%3Fed%3D2560&security=tls&host=c2.validbv3528.eu.org&fp=randomized&type=ws&sni=c2.validbv3528.eu.org#Gozargah%20Azadi%20%F0%9F%94%8B
+trojan://Ng35283528@104.24.54.2:443?path=%2F%3Fed%3D2560&security=tls&host=c2.validbv3528.eu.org&fp=randomized&type=ws&sni=c2.validbv3528.eu.org#Gozargah%20Azadi%20%F0%9F%94%8B
+trojan://Ng35283528@104.24.64.48:443?path=%2F%3Fed%3D2560&security=tls&host=c2.validbv3528.eu.org&fp=randomized&type=ws&sni=c2.validbv3528.eu.org#Gozargah%20Azadi%20%F0%9F%94%8B
+trojan://Ng35283528@188.114.97.81:443?path=%2F%3Fed%3D2560&security=tls&host=c2.validbv3528.eu.org&fp=randomized&type=ws&sni=c2.validbv3528.eu.org#Gozargah%20Azadi%20%F0%9F%94%8B
+trojan://Ng35283528@188.42.88.22:443?path=%2F%3Fed%3D2560&security=tls&host=c2.validbv3528.eu.org&fp=randomized&type=ws&sni=c2.validbv3528.eu.org#Gozargah%20Azadi%20%F0%9F%94%8B
