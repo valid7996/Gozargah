@@ -80,3 +80,8 @@
 ## Stargazers Over Time
 
 [![Stargazers over time](https://starchart.cc/valid7996/Gozargah.svg?variant=adaptive)](https://starchart.cc/valid7996/Gozargah)
+
+
+# بازدید روزانه
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=valid7996.Gozargah)
