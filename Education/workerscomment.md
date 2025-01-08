@@ -5,12 +5,16 @@
 [دانلود کد Worker](https://github.com/valid7996/Gozargah/blob/main/worker_vless/%20_worker.js)
 
 در گوشی‌های موبایل، منوی کناری را باز کنید، روی گزینه **Upload** نگه دارید و فایل را آپلود کنید:  
-![آپلود فایل](https://github.com/valid7996/Gozargah/blob/main/images/imagwor/IMG_20250104_163617.jpg)
+<p align="center">
+  <img src="https://github.com/valid7996/Gozargah/blob/main/images/imagwor/IMG_20250104_163617.jpg" alt="آپلود فایل" width="70%">
+</p>
 
 ### مرحله 2: Save & Deploy  
 پس از آپلود کد، می‌توانید از مقادیر پیش‌فرض استفاده کنید یا به بخش **[تنظیمات پیشرفته](#تنظیمات-پیشرفته-اختیاری)** مراجعه کنید.  
 در نهایت، روی گزینه `Save and Deploy` کلیک کنید:  
-![ذخیره و انتشار](https://github.com/valid7996/Gozargah/blob/main/images/imagwor/IMG_20250104_163647.jpg)
+<p align="center">
+  <img src="https://github.com/valid7996/Gozargah/blob/main/images/imagwor/IMG_20250104_163647.jpg" alt="ذخیره و انتشار" width="70%">
+</p>
 
 ---
 
@@ -27,12 +31,16 @@
 ### مراحل تغییر UUID:
 - از منوی سمت چپ، به بخش **Workers & Pages** بروید.  
 - روی Worker ساخته‌شده کلیک کنید، به **Settings** بروید و گزینه **Variables and Secrets** را پیدا کنید:  
-![تنظیمات](https://github.com/valid7996/Gozargah/blob/main/images/imagwor/IMG_20250104_163547.jpg)  
+<p align="center">
+  <img src="https://github.com/valid7996/Gozargah/blob/main/images/imagwor/IMG_20250104_163547.jpg" alt="تنظیمات" width="70%">
+</p>
 
 - گزینه **Add Variable** را انتخاب کنید:  
   - در فیلد اول `UUID` را وارد کنید.  
   - از [اینجا](https://www.uuidgenerator.net/) یک UUID جدید بگیرید و در فیلد دوم قرار دهید.  
-![افزودن UUID](https://github.com/valid7996/Gozargah/blob/main/images/imagwor/InShot_20250104_155744172.jpg)  
+<p align="center">
+  <img src="https://github.com/valid7996/Gozargah/blob/main/images/imagwor/InShot_20250104_155744172.jpg" alt="افزودن UUID" width="70%">
+</p>
 
 ---
 
@@ -41,7 +49,9 @@
 1. دوباره **Add Variable** را بزنید.  
 2. در فیلد اول `PROXYIP` را بنویسید.  
 3. از [Proxy IP](https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/) یک IP انتخاب کنید و در فیلد دوم وارد کنید.  
-![افزودن Proxy IP](https://github.com/valid7996/Gozargah/blob/main/images/imagwor/InShot_20250104_155719489.jpg)  
+<p align="center">
+  <img src="https://github.com/valid7996/Gozargah/blob/main/images/imagwor/InShot_20250104_155719489.jpg" alt="افزودن Proxy IP" width="70%">
+</p>
 
 ---
 
