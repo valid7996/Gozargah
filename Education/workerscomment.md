@@ -106,3 +106,8 @@
 <div dir="rtl" align="right">
 <strong>توجه:</strong> اگر دامنه را به Worker وصل کنید، ترافیک به‌صورت <strong>نامحدود</strong> خواهد شد.
 </div>
+
+
+# بازدید
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=valid7996.Gozargah)
