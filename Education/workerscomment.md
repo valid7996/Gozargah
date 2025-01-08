@@ -49,7 +49,7 @@
 <ul>
 <li>گزینه <strong>Add Variable</strong> را انتخاب کنید:</li>
 <ul>
-<li>در فیلد اول `UUID` را وارد کنید.</li>
+<li>در فیلد اول `uuid` را وارد کنید.</li>
 <li>از <a href="https://www.uuidgenerator.net/">اینجا</a> یک UUID جدید بگیرید و در فیلد دوم قرار دهید.</li>
 </ul>
 </ul>
@@ -66,7 +66,7 @@
 اگر نیاز دارید IP ثابت برای پروکسی تعریف کنید:
 <ul>
 <li>دوباره <strong>Add Variable</strong> را بزنید.</li>
-<li>در فیلد اول `PROXYIP` را بنویسید.</li>
+<li>در فیلد اول `proxyip` را بنویسید.</li>
 <li>از <a href="https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/">Proxy IP</a> یک IP انتخاب کنید و در فیلد دوم وارد کنید.</li>
 </ul>
 </div>
