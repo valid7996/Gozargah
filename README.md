@@ -109,4 +109,5 @@ allowlnsecure : `` ``
 
 آموزش تروجان بزودی اضافه خواهد شد
 
-
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/valid7996/Gozargah.svg?variant=adaptive)](https://starchart.cc/valid7996/Gozargah)
