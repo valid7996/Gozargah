@@ -1,113 +1,90 @@
-## 一：Gozargah
+# Gozargah
 
-خوش امید ❤️ توضیحات خاصی در مورد این ورکر هست لطفا ادامه رو بخونید 
+Welcome ❤️ Please read below for specific details about this worker.
 
-تشکر خاصی از صاحب پروژه [yonggekkk](https://github.com/yonggekkk) من هیچ کاری نکردم فقط ترجمه رو انجام دادم 
+Special thanks to the project owner, [yonggekkk](https://github.com/yonggekkk). I haven’t done much except translating it.
 
-برای استفاده این پروژه fake dns  فعاله برای امنیت  پس برنامه خاصی آن رو ساپورت میکنه 
+This project uses **Fake DNS** for security purposes, so it requires specific applications that support it.
 
+You can check other worker projects like [bpb_worker](https://github.com/valid7996/BPB-Worker-Panel).
 
-دیگر پروژه های ورکر میتونید ببینید [bpb_worker](https://github.com/valid7996/BPB-Worker-Panel) 
+---
 
+## 📖 مستندات فارسی
 
-## —:آموزش ورکر
+📌 **اگر به توضیحات کامل به زبان فارسی نیاز دارید، لطفاً روی لینک زیر کلیک کنید:**
 
-[آموزش ورکر](https://github.com/valid7996/Gozargah/blob/main/Education/workerscomment.md) 
+🔗 [مشاهده مستندات فارسی](https://github.com/valid7996/Gozargah/blob/main/Farsi.md)
 
+---
 
-## —:سرور رایگان
+## Worker Tutorial
 
-برای دریافت سرور های رایگان [اینجا](https://github.com/valid7996/Gozargah/blob/main/Free%20config.md) ضربه بزنید
+[Worker Tutorial](https://github.com/valid7996/Gozargah/blob/main/Education/workerscomment.md)
 
+---
 
+## Free Servers
 
-## __:برنامه_خاص 
+To access free servers, click [here](https://github.com/valid7996/Gozargah/blob/main/Free%20config.md).
 
-| برنامه ها |
-| :--- | 
+---
+
+## Special Applications
+
+| Applications |
+|:---|
 | 1. V2RayNg |
-| 2. NikaNg | 
+| 2. NikaNg |
 | 3. MahsaNg |
-| 4. KaringVpn |
+| 4. KaringVPN |
+| 5. HiddifyNg |
 
+- For instructions on using **V2RayNg, NikaNg, and MahsaNg**, click [here](https://github.com/valid7996/Gozargah/tree/main/Education/V2RayNg).
+- For instructions on using **KaringVPN**, click [here](https://github.com/valid7996/Gozargah/tree/main/Education/Karingvpn).
+- For instructions on using **HiddifyNg**, add the necessary details if you'd like!
 
-# آموزش استفاده در برنامه V2RayNg,NikaNg,MahsaNg [اینجا](https://github.com/valid7996/Gozargah/tree/main/Education/V2RayNg) بزنید 
+---
 
-# آموزش استفاده از Karing VPN [اینجا](https://github.com/valid7996/Gozargah/tree/main/Education/Karingvpn) بزنید 
+## Ports and Protocols
 
-همچنین دارای پورت در صورت http و https طبق نمودار پایین 
-
-
-
-
-| tls با | tls بدون |
-| :--- | :--- | 
-| 443 |  80 |
-| 8443 |  8080 |
+| **With TLS** | **Without TLS** |
+|:---|:---|
+| 443 | 80 |
+| 8443 | 8080 |
 | 2053 | 8880 |
 | 2083 | 2095 |
 | 2087 | 2082 |
-| 2096 | 2052|
+| 2096 | 2052 |
 
-و مقادیر استفاده شده رو میتونید پایین چک کنید 
+---
 
-## —:vless-ws-tls
+## VLESS-WSS (TLS)
 
-Address : cloudflare ip
+- **Address:** Cloudflare IP  
+- **Ports:** 443, 8443, 2053, 2083, 2087, 2096  
+- **UUID:** 253ef561-9e57-4336-befd-878ddd30df01  
+- **Network:** WS (WebSocket)  
+- **Host:** domine.worker.dev  
+- **Path:** /?ed=2560  
+- **TLS:** true  
+- **AllowInsecure:** false  
 
+---
 
-Port : 443、8443、2053、2083、2087、2096)
+## VLESS-WS (Without TLS)
 
+- **Address:** Cloudflare IP  
+- **Ports:** 80, 8080, 8880, 2095, 2082, 2052  
+- **UUID:** 253ef561-9e57-4336-befd-878ddd30df01  
+- **Network:** WS (WebSocket)  
+- **Host:** domine.worker.dev  
+- **Path:** /?ed=2560  
+- **TLS:** false  
+- **AllowInsecure:** ````  
 
-uuid : 253ef561-9e57-4336-befd-878ddd30df01 
+---
 
+## Stargazers Over Time
 
-network : ws (websocket) 
-
-
-host : domine.worker.dev
-
-
-path : /?ed=2560
-
-
-tls : true 
-
-
-allowlnsecure : false our fastly :true
-
-## —:vless-ws
-
-Address : cloudflare ip
-
-
-Port : 80、8080、8880、2095、2082、2052)
-
-
-uuid : 253ef561-9e57-4336-befd-878ddd30df01 
-
-
-network : ws (websocket) 
-
-
-host : domine.worker.dev
-
-
-path : /?ed=2560
-
-
-tls : false
-
-
-allowlnsecure : `` ``
-
-
-
-## —:آموزش ورکر
-
-[آموزش ورکر](https://github.com/valid7996/Gozargah/blob/main/Education/workerscomment.md) 
-
-آموزش تروجان بزودی اضافه خواهد شد
-
-## Stargazers over time
 [![Stargazers over time](https://starchart.cc/valid7996/Gozargah.svg?variant=adaptive)](https://starchart.cc/valid7996/Gozargah)
