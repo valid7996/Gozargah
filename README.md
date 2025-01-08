@@ -90,4 +90,8 @@ To access free servers, click [here](https://github.com/valid7996/Gozargah/blob/
 [![Stargazers over time](https://starchart.cc/valid7996/Gozargah.svg?variant=adaptive)](https://starchart.cc/valid7996/Gozargah)
 
 
+# Gozargah
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=valid7996.Gozargah)
+
+این پروژه به شما کمک می‌کند که ...
