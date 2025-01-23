@@ -61,7 +61,7 @@ cd Gozargah
 
 🔗 دموی زنده
 
-🔗 Gozargah Panel Live (اگر نسخه زنده دارید، لینک آن را جایگزین کنید)
+🔗 Gozargah Panel Live (https://falling-term-02bb.misigma333.workers.dev/panel)
 
 
 ---
