@@ -8,6 +8,8 @@
  
  Subscriptions : https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub
 
+ Subscriptions Clash over Clashe meta : https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah.yaml
+
 
 
  برای استفاده از دو اپلیکیشن معروف قابل استفاده است
