@@ -8,8 +8,13 @@
  
  Subscriptions : https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub
 
+این دوتا سابسکریپشن کلش میتا با سینگ باکس نیاز به DNS  جعلی ندارن 
+ 
+ 
+ 
  Subscriptions Clash over Clashe meta : https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah.yaml
 
+ Subscriptions Sing-box : https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_sing-box_sub 
 
 
  برای استفاده از دو اپلیکیشن معروف قابل استفاده است
