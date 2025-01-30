@@ -5,10 +5,12 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: "[Vless] Gozargah 笨�汳｡", server: c-mrkets-c.com, port: 80, type: vless, uuid: 1d022dac-aa28-4d65-b8af-45d4a1471bda, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/3xqE323TVpZqWA20?ed=2560", headers: {Host: nargilmsj35287.com}}}
-  - {name: "[Vless] Gozargah 笨�汳｡ 2", server: playemlive.com, port: 80, type: vless, uuid: 1d022dac-aa28-4d65-b8af-45d4a1471bda, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/mod3BQ0LMrkTp9Gt?ed=2560", headers: {Host: nargilmsj35287.com}}}
-  - {name: "[Vless] Gozargah 笨�汳｡ 3", server: cabogcore.shop, port: 80, type: vless, uuid: 1d022dac-aa28-4d65-b8af-45d4a1471bda, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/Zui513btkABPbNeM?ed=2560", headers: {Host: nargilmsj35287.com}}}
-  - {name: "[Vless] Gozargah 笨�汳｡ 4", server: captainew.click, port: 80, type: vless, uuid: 1d022dac-aa28-4d65-b8af-45d4a1471bda, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/4uh1hGpWfZEqcv40?ed=2560", headers: {Host: nargilmsj35287.com}}}
+  - {name: "[Vless] Gozargah 笨�汳｡", server: 172.64.162.60, port: 443, type: vless, uuid: 42f36835-730c-4ecc-9daf-20121ae7ba47, tls: true, skip-cert-verify: false, servername: gozargah.validbv7996.ir, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: gozargah.validbv7996.ir}}}
+  - {name: "[Vless] Gozargah 笨�汳｡ 2", server: 104.16.132.207, port: 443, type: vless, uuid: 42f36835-730c-4ecc-9daf-20121ae7ba47, tls: true, skip-cert-verify: false, servername: gozargah.validbv7996.ir, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: gozargah.validbv7996.ir}}}
+  - {name: "[Vless] Gozargah 笨�汳｡ 3", server: 104.24.207.192, port: 443, type: vless, uuid: 42f36835-730c-4ecc-9daf-20121ae7ba47, tls: true, skip-cert-verify: false, servername: gozargah.validbv7996.ir, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: gozargah.validbv7996.ir}}}
+  - {name: "[Vless] Gozargah 笨�汳｡ 4", server: 104.16.252.47, port: 443, type: vless, uuid: 42f36835-730c-4ecc-9daf-20121ae7ba47, tls: true, skip-cert-verify: false, servername: gozargah.validbv7996.ir, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: gozargah.validbv7996.ir}}}
+  - {name: "[Vless] Gozargah 笨�汳｡ 5", server: 190.93.244.221, port: 443, type: vless, uuid: 42f36835-730c-4ecc-9daf-20121ae7ba47, tls: true, skip-cert-verify: false, servername: gozargah.validbv7996.ir, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: gozargah.validbv7996.ir}}}
+  - {name: "[Vless] Gozargah 笨�汳｡ 6", server: 172.64.103.84, port: 443, type: vless, uuid: 42f36835-730c-4ecc-9daf-20121ae7ba47, tls: true, skip-cert-verify: false, servername: gozargah.validbv7996.ir, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: gozargah.validbv7996.ir}}}
 proxy-groups:
   - name: 伐 闃らせ騾画叫
     type: select
@@ -19,6 +21,8 @@ proxy-groups:
       - "[Vless] Gozargah 笨�汳｡ 2"
       - "[Vless] Gozargah 笨�汳｡ 3"
       - "[Vless] Gozargah 笨�汳｡ 4"
+      - "[Vless] Gozargah 笨�汳｡ 5"
+      - "[Vless] Gozargah 笨�汳｡ 6"
   - name: 笙ｻ�� 閾ｪ蜉ｨ騾画叫
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -28,6 +32,8 @@ proxy-groups:
       - "[Vless] Gozargah 笨�汳｡ 2"
       - "[Vless] Gozargah 笨�汳｡ 3"
       - "[Vless] Gozargah 笨�汳｡ 4"
+      - "[Vless] Gozargah 笨�汳｡ 5"
+      - "[Vless] Gozargah 笨�汳｡ 6"
   - name: 磁 NETFLIX
     type: select
     proxies:
@@ -38,6 +44,8 @@ proxy-groups:
       - "[Vless] Gozargah 笨�汳｡ 2"
       - "[Vless] Gozargah 笨�汳｡ 3"
       - "[Vless] Gozargah 笨�汳｡ 4"
+      - "[Vless] Gozargah 笨�汳｡ 5"
+      - "[Vless] Gozargah 笨�汳｡ 6"
   - name: 笵費ｸ� 蟷ｿ蜻頑協謌ｪ
     type: select
     proxies:
@@ -60,6 +68,8 @@ proxy-groups:
       - "[Vless] Gozargah 笨�汳｡ 2"
       - "[Vless] Gozargah 笨�汳｡ 3"
       - "[Vless] Gozargah 笨�汳｡ 4"
+      - "[Vless] Gozargah 笨�汳｡ 5"
+      - "[Vless] Gozargah 笨�汳｡ 6"
   - name: 件 蝗ｽ蜀�ｪ剃ｽ�
     type: select
     proxies:
@@ -74,6 +84,8 @@ proxy-groups:
       - "[Vless] Gozargah 笨�汳｡ 2"
       - "[Vless] Gozargah 笨�汳｡ 3"
       - "[Vless] Gozargah 笨�汳｡ 4"
+      - "[Vless] Gozargah 笨�汳｡ 5"
+      - "[Vless] Gozargah 笨�汳｡ 6"
   - name: 憧 逕ｵ謚･菫｡諱ｯ
     type: select
     proxies:
@@ -83,6 +95,8 @@ proxy-groups:
       - "[Vless] Gozargah 笨�汳｡ 2"
       - "[Vless] Gozargah 笨�汳｡ 3"
       - "[Vless] Gozargah 笨�汳｡ 4"
+      - "[Vless] Gozargah 笨�汳｡ 5"
+      - "[Vless] Gozargah 笨�汳｡ 6"
   - name: 克 闍ｹ譫懈恪蜉｡
     type: select
     proxies:
@@ -93,6 +107,8 @@ proxy-groups:
       - "[Vless] Gozargah 笨�汳｡ 2"
       - "[Vless] Gozargah 笨�汳｡ 3"
       - "[Vless] Gozargah 笨�汳｡ 4"
+      - "[Vless] Gozargah 笨�汳｡ 5"
+      - "[Vless] Gozargah 笨�汳｡ 6"
   - name: 識 蜈ｨ逅�峩霑�
     type: select
     proxies:
@@ -112,6 +128,8 @@ proxy-groups:
       - "[Vless] Gozargah 笨�汳｡ 2"
       - "[Vless] Gozargah 笨�汳｡ 3"
       - "[Vless] Gozargah 笨�汳｡ 4"
+      - "[Vless] Gozargah 笨�汳｡ 5"
+      - "[Vless] Gozargah 笨�汳｡ 6"
 rules:
   - DOMAIN-SUFFIX,local,識 蜈ｨ逅�峩霑�
   - IP-CIDR,192.168.0.0/16,識 蜈ｨ逅�峩霑�,no-resolve
