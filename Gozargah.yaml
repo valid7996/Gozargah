@@ -5,47 +5,47 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: "[Vless] Gozargah ✅", server: 104.24.207.192, port: 80, type: vless, uuid: 5b75d93d-1e40-43a4-af3d-d6cb11fbafe8, tls: false, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, servername: gozargah2.validbv7996.ir, client-fingerprint: randomized, network: ws, ws-opts: {path: "/3Bc2FravWgXBrnlN?ed=2560", headers: {Host: gozargah2.validbv7996.ir}}}
-  - {name: "[Vless] Gozargah ✅ 2", server: 104.16.132.207, port: 80, type: vless, uuid: 5b75d93d-1e40-43a4-af3d-d6cb11fbafe8, tls: false, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, servername: gozargah2.validbv7996.ir, client-fingerprint: randomized, network: ws, ws-opts: {path: "/3Bc2FravWgXBrnlN?ed=2560", headers: {Host: gozargah2.validbv7996.ir}}}
-  - {name: "[Vless] Gozargah ✅ 3", server: 172.64.162.60, port: 80, type: vless, uuid: 5b75d93d-1e40-43a4-af3d-d6cb11fbafe8, tls: false, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, servername: gozargah2.validbv7996.ir, client-fingerprint: randomized, network: ws, ws-opts: {path: "/3Bc2FravWgXBrnlN?ed=2560", headers: {Host: gozargah2.validbv7996.ir}}}
-  - {name: "[Vless] Gozargah ✅💡", server: 172.64.162.60, port: 443, type: vless, uuid: 42f36835-730c-4ecc-9daf-20121ae7ba47, tls: true, skip-cert-verify: false, servername: gozargah.validbv7996.ir, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: gozargah.validbv7996.ir}}}
-  - {name: "[Vless] Gozargah ✅💡 2", server: 104.16.132.207, port: 443, type: vless, uuid: 42f36835-730c-4ecc-9daf-20121ae7ba47, tls: true, skip-cert-verify: false, servername: gozargah.validbv7996.ir, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: gozargah.validbv7996.ir}}}
-  - {name: "[Vless] Gozargah ✅💡 3", server: 104.24.207.192, port: 443, type: vless, uuid: 42f36835-730c-4ecc-9daf-20121ae7ba47, tls: true, skip-cert-verify: false, servername: gozargah.validbv7996.ir, client-fingerprint: random, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: gozargah.validbv7996.ir}}}
+  - {name: "[Vless] Gozargah⭐1", server: www.speedtest.net, port: 443, type: vless, uuid: c5293efa-28f8-4a0f-8f34-541078970cee, tls: true, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, servername: GOzaRGAH.VaLIDbV7996.Ir, client-fingerprint: randomized, network: ws, ws-opts: {path: "/PQbo6kwamNEbtFNK?ed=2560", headers: {Host: GOzaRGAH.VaLIDbV7996.Ir}}}
+  - {name: "[Vless] Gozargah⭐2", server: 188.114.96.3, port: 443, type: vless, uuid: c5293efa-28f8-4a0f-8f34-541078970cee, tls: true, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, servername: GOZArgAH.vaLIDbV7996.IR, client-fingerprint: randomized, network: ws, ws-opts: {path: "/oiBBYyE4WkprI2wD?ed=2560", headers: {Host: GOZArgAH.vaLIDbV7996.IR}}}
+  - {name: "[Vless] Gozargah⭐3", server: 188.114.97.3, port: 443, type: vless, uuid: c5293efa-28f8-4a0f-8f34-541078970cee, tls: true, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, servername: gozArgAh.VaLiDBV7996.Ir, client-fingerprint: randomized, network: ws, ws-opts: {path: "/OBFV60WlJSJMGU5U?ed=2560", headers: {Host: gozArgAh.VaLiDBV7996.Ir}}}
+  - {name: "[Vless] Gozargah⭐4", server: www.speedtest.net, port: 8443, type: vless, uuid: c5293efa-28f8-4a0f-8f34-541078970cee, tls: true, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, servername: GoZargah.VAlidBv7996.Ir, client-fingerprint: randomized, network: ws, ws-opts: {path: "/DZ45Va3SCDF38lw3?ed=2560", headers: {Host: GoZargah.VAlidBv7996.Ir}}}
+  - {name: "[Vless] Gozargah⭐5", server: 188.114.96.3, port: 8443, type: vless, uuid: c5293efa-28f8-4a0f-8f34-541078970cee, tls: true, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, servername: GOzaRGAh.vALidBv7996.Ir, client-fingerprint: randomized, network: ws, ws-opts: {path: "/Hl5ZA0QBitIoHN9C?ed=2560", headers: {Host: GOzaRGAh.vALidBv7996.Ir}}}
+  - {name: "[Vless] Gozargah⭐6", server: 188.114.97.3, port: 80, type: vless, uuid: c5293efa-28f8-4a0f-8f34-541078970cee, tls: false, alpn: [h2%2Chttp%2F1.1], skip-cert-verify: false, servername: goZARGah.validBv7996.ir, client-fingerprint: randomized, network: ws, ws-opts: {path: "/SIGrNRCU4ongDlz4?ed=2560", headers: {Host: goZARGah.validBv7996.ir}}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "[Vless] Gozargah ✅"
-      - "[Vless] Gozargah ✅ 2"
-      - "[Vless] Gozargah ✅ 3"
-      - "[Vless] Gozargah ✅💡"
-      - "[Vless] Gozargah ✅💡 2"
-      - "[Vless] Gozargah ✅💡 3"
+      - "[Vless] Gozargah⭐1"
+      - "[Vless] Gozargah⭐2"
+      - "[Vless] Gozargah⭐3"
+      - "[Vless] Gozargah⭐4"
+      - "[Vless] Gozargah⭐5"
+      - "[Vless] Gozargah⭐6"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - "[Vless] Gozargah ✅"
-      - "[Vless] Gozargah ✅ 2"
-      - "[Vless] Gozargah ✅ 3"
-      - "[Vless] Gozargah ✅💡"
-      - "[Vless] Gozargah ✅💡 2"
-      - "[Vless] Gozargah ✅💡 3"
+      - "[Vless] Gozargah⭐1"
+      - "[Vless] Gozargah⭐2"
+      - "[Vless] Gozargah⭐3"
+      - "[Vless] Gozargah⭐4"
+      - "[Vless] Gozargah⭐5"
+      - "[Vless] Gozargah⭐6"
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "[Vless] Gozargah ✅"
-      - "[Vless] Gozargah ✅ 2"
-      - "[Vless] Gozargah ✅ 3"
-      - "[Vless] Gozargah ✅💡"
-      - "[Vless] Gozargah ✅💡 2"
-      - "[Vless] Gozargah ✅💡 3"
+      - "[Vless] Gozargah⭐1"
+      - "[Vless] Gozargah⭐2"
+      - "[Vless] Gozargah⭐3"
+      - "[Vless] Gozargah⭐4"
+      - "[Vless] Gozargah⭐5"
+      - "[Vless] Gozargah⭐6"
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -64,12 +64,12 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "[Vless] Gozargah ✅"
-      - "[Vless] Gozargah ✅ 2"
-      - "[Vless] Gozargah ✅ 3"
-      - "[Vless] Gozargah ✅💡"
-      - "[Vless] Gozargah ✅💡 2"
-      - "[Vless] Gozargah ✅💡 3"
+      - "[Vless] Gozargah⭐1"
+      - "[Vless] Gozargah⭐2"
+      - "[Vless] Gozargah⭐3"
+      - "[Vless] Gozargah⭐4"
+      - "[Vless] Gozargah⭐5"
+      - "[Vless] Gozargah⭐6"
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -80,35 +80,35 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - "[Vless] Gozargah ✅"
-      - "[Vless] Gozargah ✅ 2"
-      - "[Vless] Gozargah ✅ 3"
-      - "[Vless] Gozargah ✅💡"
-      - "[Vless] Gozargah ✅💡 2"
-      - "[Vless] Gozargah ✅💡 3"
+      - "[Vless] Gozargah⭐1"
+      - "[Vless] Gozargah⭐2"
+      - "[Vless] Gozargah⭐3"
+      - "[Vless] Gozargah⭐4"
+      - "[Vless] Gozargah⭐5"
+      - "[Vless] Gozargah⭐6"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - "[Vless] Gozargah ✅"
-      - "[Vless] Gozargah ✅ 2"
-      - "[Vless] Gozargah ✅ 3"
-      - "[Vless] Gozargah ✅💡"
-      - "[Vless] Gozargah ✅💡 2"
-      - "[Vless] Gozargah ✅💡 3"
+      - "[Vless] Gozargah⭐1"
+      - "[Vless] Gozargah⭐2"
+      - "[Vless] Gozargah⭐3"
+      - "[Vless] Gozargah⭐4"
+      - "[Vless] Gozargah⭐5"
+      - "[Vless] Gozargah⭐6"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "[Vless] Gozargah ✅"
-      - "[Vless] Gozargah ✅ 2"
-      - "[Vless] Gozargah ✅ 3"
-      - "[Vless] Gozargah ✅💡"
-      - "[Vless] Gozargah ✅💡 2"
-      - "[Vless] Gozargah ✅💡 3"
+      - "[Vless] Gozargah⭐1"
+      - "[Vless] Gozargah⭐2"
+      - "[Vless] Gozargah⭐3"
+      - "[Vless] Gozargah⭐4"
+      - "[Vless] Gozargah⭐5"
+      - "[Vless] Gozargah⭐6"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -124,12 +124,12 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "[Vless] Gozargah ✅"
-      - "[Vless] Gozargah ✅ 2"
-      - "[Vless] Gozargah ✅ 3"
-      - "[Vless] Gozargah ✅💡"
-      - "[Vless] Gozargah ✅💡 2"
-      - "[Vless] Gozargah ✅💡 3"
+      - "[Vless] Gozargah⭐1"
+      - "[Vless] Gozargah⭐2"
+      - "[Vless] Gozargah⭐3"
+      - "[Vless] Gozargah⭐4"
+      - "[Vless] Gozargah⭐5"
+      - "[Vless] Gozargah⭐6"
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
