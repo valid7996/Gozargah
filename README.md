@@ -82,7 +82,9 @@ To access free servers, click [here](https://github.com/valid7996/Gozargah/blob/
 - **Path:** /?ed=2560  
 - **TLS:** false  
 - **AllowInsecure:** ````  
-
+- **Donat**
+- **USDT BEP(20)**
+- 0x1d033c99F40cF9c3D1C418174a9E2883887d860A
 ---
 
 ## Stargazers Over Time
