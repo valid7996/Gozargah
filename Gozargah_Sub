@@ -1,1 +1,223 @@
-{"remarks":"💧bpb-hamedp71","log":{"loglevel":"warning"},"dns":{"hosts":{"geosite:category-ads-all":["127.0.0.1"],"geosite:category-ads-ir":["127.0.0.1"]},"servers":[{"address":"fakedns","domains":["geosite:category-ir","geosite:cn","geosite:category-ru"]},"https://8.8.8.8/dns-query",{"address":"8.8.8.8","domains":["geosite:category-ir","geosite:cn","geosite:category-ru"],"expectIPs":["geoip:ir","geoip:cn","geoip:ru"],"skipFallback":true}],"queryStrategy":"UseIP","tag":"dns"},"inbounds":[{"port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls","fakedns"],"enabled":true,"routeOnly":true},"tag":"socks-in"},{"port":10809,"protocol":"http","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls","fakedns"],"enabled":true,"routeOnly":true},"tag":"http-in"},{"listen":"127.0.0.1","port":10853,"protocol":"dokodemo-door","settings":{"address":"1.1.1.1","network":"tcp,udp","port":53},"tag":"dns-in"}],"outbounds":[{"protocol":"vless","settings":{"vnext":[{"address":"104.18.32.47","port":2087,"users":[{"id":"046a045f-ca11-4123-b7fc-c1b8061f0785","encryption":"none","level":8}]}]},"streamSettings":{"network":"ws","security":"tls","sockopt":{"dialerProxy":"fragment"},"wsSettings":{"headers":{"Host":"hp71.pages.dev","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"},"path":"/9hjz9tZ5KkRfrdKt/dHVyay5yYWRpY2FsaXphdGlvbi5pcg==?ed=2560"},"tlsSettings":{"allowInsecure":false,"fingerprint":"randomized","alpn":["h2","http/1.1"],"serverName":"hP71.pAGes.dEV"}},"tag":"proxy"},{"tag":"fragment","protocol":"freedom","settings":{"fragment":{"packets":"tlshello","length":"10-20","interval":"1-1"},"domainStrategy":"UseIPv4v6"},"streamSettings":{"sockopt":{"tcpKeepAliveIdle":30,"tcpNoDelay":true}}},{"protocol":"dns","tag":"dns-out"},{"protocol":"freedom","settings":{},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"}],"policy":{"levels":{"8":{"connIdle":300,"downlinkOnly":1,"handshake":4,"uplinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"inboundTag":["dns-in"],"outboundTag":"dns-out","type":"field"},{"inboundTag":["socks-in","http-in"],"port":"53","outboundTag":"dns-out","type":"field"},{"ip":["8.8.8.8"],"port":"53","network":"udp","outboundTag":"direct","type":"field"},{"domain":["geosite:category-ir","geosite:cn"],"outboundTag":"direct","type":"field"},{"ip":["geoip:ir","geoip:cn"],"outboundTag":"direct","type":"field"},{"domain":["geosite:category-ads-all","geosite:category-ads-ir"],"outboundTag":"block","type":"field"},{"network":"udp","port":"443","outboundTag":"block","type":"field"},{"network":"tcp,udp","outboundTag":"proxy","type":"field"}]},"stats":{}}
+{
+  "remarks": "💧 bpb-style - vless-cdn",
+
+  "log": {
+    "loglevel": "warning"
+  },
+
+  "dns": {
+    "hosts": {
+      "geosite:category-ads-all": ["127.0.0.1"],
+      "geosite:category-ads-ir": ["127.0.0.1"]
+    },
+    "servers": [
+      {
+        "address": "fakedns",
+        "domains": [
+          "geosite:category-ir",
+          "geosite:cn",
+          "geosite:category-ru"
+        ]
+      },
+      "https://8.8.8.8/dns-query",
+      {
+        "address": "8.8.8.8",
+        "domains": [
+          "geosite:category-ir",
+          "geosite:cn",
+          "geosite:category-ru"
+        ],
+        "expectIPs": [
+          "geoip:ir",
+          "geoip:cn",
+          "geoip:ru"
+        ],
+        "skipFallback": true
+      }
+    ],
+    "queryStrategy": "UseIP",
+    "tag": "dns"
+  },
+
+  "inbounds": [
+    {
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": ["http", "tls", "fakedns"],
+        "enabled": true,
+        "routeOnly": true
+      },
+      "tag": "socks-in"
+    },
+    {
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": ["http", "tls", "fakedns"],
+        "enabled": true,
+        "routeOnly": true
+      },
+      "tag": "http-in"
+    },
+    {
+      "listen": "127.0.0.1",
+      "port": 10853,
+      "protocol": "dokodemo-door",
+      "settings": {
+        "address": "1.1.1.1",
+        "network": "tcp,udp",
+        "port": 53
+      },
+      "tag": "dns-in"
+    }
+  ],
+
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "104.21.17.4",
+            "port": 2087,
+            "users": [
+              {
+                "id": "38a43f18-b4d9-443f-9ff1-4cf9de3d666e",
+                "encryption": "none",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "sockopt": {
+          "dialerProxy": "fragment"
+        },
+        "wsSettings": {
+          "headers": {
+            "Host": "valid22.validbv9501.ir",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+          },
+          "path": "/eyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ==?ed=2560"
+        },
+        "tlsSettings": {
+          "allowInsecure": false,
+          "fingerprint": "randomized",
+          "alpn": ["h2", "http/1.1"],
+          "serverName": "valid22.validbv9501.ir"
+        }
+      },
+      "tag": "proxy"
+    },
+
+    {
+      "tag": "fragment",
+      "protocol": "freedom",
+      "settings": {
+        "fragment": {
+          "packets": "tlshello",
+          "length": "10-20",
+          "interval": "1-1"
+        },
+        "domainStrategy": "UseIPv4v6"
+      },
+      "streamSettings": {
+        "sockopt": {
+          "tcpKeepAliveIdle": 30,
+          "tcpNoDelay": true
+        }
+      }
+    },
+
+    { "protocol": "dns", "tag": "dns-out" },
+    { "protocol": "freedom", "settings": {}, "tag": "direct" },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": { "type": "http" }
+      },
+      "tag": "block"
+    }
+  ],
+
+  "policy": {
+    "levels": {
+      "8": {
+        "connIdle": 300,
+        "downlinkOnly": 1,
+        "handshake": 4,
+        "uplinkOnly": 1
+      }
+    },
+    "system": {
+      "statsOutboundUplink": true,
+      "statsOutboundDownlink": true
+    }
+  },
+
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "inboundTag": ["dns-in"],
+        "outboundTag": "dns-out",
+        "type": "field"
+      },
+      {
+        "inboundTag": ["socks-in", "http-in"],
+        "port": "53",
+        "outboundTag": "dns-out",
+        "type": "field"
+      },
+      {
+        "ip": ["8.8.8.8"],
+        "port": "53",
+        "network": "udp",
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "domain": ["geosite:category-ir","geosite:cn"],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "ip": ["geoip:ir","geoip:cn"],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "domain": ["geosite:category-ads-all","geosite:category-ads-ir"],
+        "outboundTag": "block",
+        "type": "field"
+      },
+      {
+        "network": "udp",
+        "port": "443",
+        "outboundTag": "block",
+        "type": "field"
+      },
+      {
+        "network": "tcp,udp",
+        "outboundTag": "proxy",
+        "type": "field"
+      }
+    ]
+  },
+
+  "stats": {}
+}
